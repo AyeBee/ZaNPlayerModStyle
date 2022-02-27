@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Z-aN Player ModStyle
+// @name         Z-aN Player Style Mod
 // @namespace    http://ayebee.jp/
 // @version      0.1
 // @description  動画配信サイトZ-aNの画面構成をちょっと良くするユーザースクリプトです。
